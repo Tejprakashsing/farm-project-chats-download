@@ -1,0 +1,38 @@
+.chat-display {
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 8px;
+    width: 100%;
+    box-sizing: border-box;
+    overflow-y: auto; 
+    max-height: 80vh; 
+}
+
+.chat-display h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+.section h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #dddddd;
+    padding-bottom: 5px;
+}
+
+.item {
+    margin-bottom: 10px;
+}
+
+.item p {
+    margin: 5px 0;
+}
+
+.item strong {
+    font-weight: bold;
+}
